@@ -1,7 +1,8 @@
 ---
 title: AWS 文档海外区和中国区切换
+categories: doc
 tags: 
-    - AWS
+    - Javascript
 ---
 
 

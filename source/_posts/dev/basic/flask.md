@@ -1,8 +1,10 @@
 ---
 title: Flask部署机器学习模型
+categories: dev
 tags: 
     - Flask
     - Machine learning
+    - Python
 ---
 
 

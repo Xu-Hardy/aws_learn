@@ -1,7 +1,7 @@
 ---
 title: 本地使用SAM模拟Lambda
+categories: lambda
 tags: 
-    - lambda
     - Severless
     - SAM
 ---

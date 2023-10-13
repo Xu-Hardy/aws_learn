@@ -1,5 +1,6 @@
 ---
 title: nginx返回客户端IP
+categories: dev
 tags: 
     - Nginx
     - Public IP
@@ -8,7 +9,7 @@ tags:
 
 1. 在此文件中输入以下内容：
 
-```nginx
+```conf
 server {
     listen 800 default_server;
     listen [::]:800 default_server;

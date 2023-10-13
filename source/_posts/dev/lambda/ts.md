@@ -1,7 +1,7 @@
 ---
 title: 在lambda上运行 Typescript
+categories: lambda
 tags: 
-    - Lambda
     - Typescript
 ---
 要在AWS Lambda上运行TypeScript，你需要将TypeScript代码编译为JavaScript，然后将其部署到Lambda。以下是如何实现这个目标的简要步骤：
@@ -21,7 +21,7 @@ npm install @types/node --save-dev
 在项目根目录下创建一个名为`tsconfig.json`的文件，添加以下内容：
 
 ```json
-{
+{ 
   "compilerOptions": {
     "target": "es2018",
     "module": "commonjs",
