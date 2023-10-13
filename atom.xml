@@ -1,0 +1,394 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>AWS 加油站</title>
+  
+  <subtitle>记录宇宙第一云厂商学习的心路</subtitle>
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2023-10-13T01:33:41.410Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>aws learner</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>AWS 文档海外区和中国区切换</title>
+    <link href="http://example.com/2023/10/13/basic/aws-link/"/>
+    <id>http://example.com/2023/10/13/basic/aws-link/</id>
+    <published>2023-10-13T01:33:41.410Z</published>
+    <updated>2023-10-13T01:33:41.410Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;pre class=&quot;line-numbers language-javascript&quot;&gt;&lt;code class=&quot;language-javascript&quot;&gt;&lt;span class=&quot;token comment&quot; spellcheck=&quot;true&quot;&gt;//</summary>
+        
+      
+    
+    
+    
+    <category term="doc" scheme="http://example.com/categories/doc/"/>
+    
+    
+    <category term="Javascript" scheme="http://example.com/tags/Javascript/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>域名那些事</title>
+    <link href="http://example.com/2023/10/13/basic/yu-ming/"/>
+    <id>http://example.com/2023/10/13/basic/yu-ming/</id>
+    <published>2023-10-13T01:33:41.410Z</published>
+    <updated>2023-10-13T01:33:41.410Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;先谈备案&quot;&gt;&lt;a href=&quot;#先谈备案&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="route53" scheme="http://example.com/categories/route53/"/>
+    
+    
+    <category term="域名" scheme="http://example.com/tags/%E5%9F%9F%E5%90%8D/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>codecommit 单个文件的限制</title>
+    <link href="http://example.com/2023/10/13/code-family/codecommit-xian-zhi/"/>
+    <id>http://example.com/2023/10/13/code-family/codecommit-xian-zhi/</id>
+    <published>2023-10-13T01:33:41.410Z</published>
+    <updated>2023-10-13T01:33:41.410Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Q: 能否提升codecommit关于单个文件的2G大小限制。&lt;br&gt;A: 关于2G的硬限制目前没有办法做更改，另外测试了git lfs</summary>
+        
+      
+    
+    
+    
+    <category term="codecommit" scheme="http://example.com/categories/codecommit/"/>
+    
+    
+    <category term="git" scheme="http://example.com/tags/git/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>IAM 限制</title>
+    <link href="http://example.com/2023/10/13/authority/iam/iam-xian-zhi/"/>
+    <id>http://example.com/2023/10/13/authority/iam/iam-xian-zhi/</id>
+    <published>2023-10-13T01:33:41.410Z</published>
+    <updated>2023-10-13T01:33:41.410Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h3 id=&quot;基于源-IP-拒绝对Amazon-的访问-1&quot;&gt;&lt;a href=&quot;#基于源-IP-拒绝对Amazon-的访问-1&quot; class=&quot;headerlink&quot; title=&quot;基于源 IP 拒绝对Amazon 的访问[^1]&quot;&gt;&lt;/a&gt;基于源 IP 拒绝对Amazon</summary>
+        
+      
+    
+    
+    
+    <category term="iam" scheme="http://example.com/categories/iam/"/>
+    
+    
+    <category term="iam policy" scheme="http://example.com/tags/iam-policy/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>IAM 常用命令</title>
+    <link href="http://example.com/2023/10/13/authority/iam/iam-chang-yong-ming-ling/"/>
+    <id>http://example.com/2023/10/13/authority/iam/iam-chang-yong-ming-ling/</id>
+    <published>2023-10-13T01:33:41.410Z</published>
+    <updated>2023-10-13T01:33:41.410Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;IAM常用命令:&lt;/p&gt;
+&lt;pre class=&quot;line-numbers language-bash&quot;&gt;&lt;code class=&quot;language-bash&quot;&gt;&lt;span class=&quot;token comment&quot; spellcheck=&quot;true&quot;&gt;#</summary>
+        
+      
+    
+    
+    
+    <category term="iam" scheme="http://example.com/categories/iam/"/>
+    
+    
+    <category term="iam policy" scheme="http://example.com/tags/iam-policy/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>mfa 失效</title>
+    <link href="http://example.com/2023/10/13/authority/iam/mfa/"/>
+    <id>http://example.com/2023/10/13/authority/iam/mfa/</id>
+    <published>2023-10-13T01:33:41.410Z</published>
+    <updated>2023-10-13T01:33:41.410Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;经常会遇到mfa失效的时候，&lt;br&gt;尝试同步mfa&lt;/p&gt;
+&lt;pre class=&quot;line-numbers language-bash&quot;&gt;&lt;code class=&quot;language-bash&quot;&gt;aws iam resync-mfa-device --user-name</summary>
+        
+      
+    
+    
+    
+    <category term="iam" scheme="http://example.com/categories/iam/"/>
+    
+    
+    <category term="mfa" scheme="http://example.com/tags/mfa/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Flask部署机器学习模型</title>
+    <link href="http://example.com/2023/10/13/dev/basic/flask/"/>
+    <id>http://example.com/2023/10/13/dev/basic/flask/</id>
+    <published>2023-10-13T01:33:41.410Z</published>
+    <updated>2023-10-13T01:33:41.410Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;部署机器学习模型使用 Flask 是一个常见的实践，尤其是为了创建一个简单的API。以下是一个简化的步骤来部署一个机器学习模型：&lt;/p&gt;
+&lt;p&gt;模型训练:&lt;br&gt;首先，你需要有一个已经训练好的机器学习模型。为了简化，我们可以使用一个简单的模型，例如使用 sklearn</summary>
+        
+      
+    
+    
+    
+    <category term="dev" scheme="http://example.com/categories/dev/"/>
+    
+    
+    <category term="Flask" scheme="http://example.com/tags/Flask/"/>
+    
+    <category term="Machine learning" scheme="http://example.com/tags/Machine-learning/"/>
+    
+    <category term="Python" scheme="http://example.com/tags/Python/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>nginx返回客户端IP</title>
+    <link href="http://example.com/2023/10/13/dev/basic/nginx/"/>
+    <id>http://example.com/2023/10/13/dev/basic/nginx/</id>
+    <published>2023-10-13T01:33:41.410Z</published>
+    <updated>2023-10-13T01:33:41.410Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;ol&gt;
+&lt;li&gt;在此文件中输入以下内容：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;pre class=&quot;line-numbers language-conf&quot;&gt;&lt;code class=&quot;language-conf&quot;&gt;server &amp;#123;
+    listen 800</summary>
+        
+      
+    
+    
+    
+    <category term="dev" scheme="http://example.com/categories/dev/"/>
+    
+    
+    <category term="Nginx" scheme="http://example.com/tags/Nginx/"/>
+    
+    <category term="Public IP" scheme="http://example.com/tags/Public-IP/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>boto3给HTTP签名</title>
+    <link href="http://example.com/2023/10/13/dev/basic/signv4/"/>
+    <id>http://example.com/2023/10/13/dev/basic/signv4/</id>
+    <published>2023-10-13T01:33:41.410Z</published>
+    <updated>2023-10-13T01:33:41.410Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;为什么要签名&quot;&gt;&lt;a href=&quot;#为什么要签名&quot; class=&quot;headerlink&quot; title=&quot;为什么要签名&quot;&gt;&lt;/a&gt;为什么要签名&lt;/h2&gt;&lt;p&gt;通常来说HTTP请求是没有办法携带IAM身份凭证的，日常的请求通过AWS</summary>
+        
+      
+    
+    
+    
+    <category term="aws sdk" scheme="http://example.com/categories/aws-sdk/"/>
+    
+    <category term="dev" scheme="http://example.com/categories/aws-sdk/dev/"/>
+    
+    
+    <category term="Python" scheme="http://example.com/tags/Python/"/>
+    
+    <category term="boto3" scheme="http://example.com/tags/boto3/"/>
+    
+    <category term="http" scheme="http://example.com/tags/http/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>本地使用SAM模拟Lambda</title>
+    <link href="http://example.com/2023/10/13/dev/lambda/sam/"/>
+    <id>http://example.com/2023/10/13/dev/lambda/sam/</id>
+    <published>2023-10-13T01:33:41.410Z</published>
+    <updated>2023-10-13T01:33:41.410Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;AWS 提供了一个工具叫做 &lt;code&gt;AWS SAM (Serverless Application Model)&lt;/code&gt;。以下是如何使用 SAM 在本地模拟 Lambda 函数的简单步骤：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;安装 AWS SAM</summary>
+        
+      
+    
+    
+    
+    <category term="lambda" scheme="http://example.com/categories/lambda/"/>
+    
+    
+    <category term="Severless" scheme="http://example.com/tags/Severless/"/>
+    
+    <category term="SAM" scheme="http://example.com/tags/SAM/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>在lambda上运行 Typescript</title>
+    <link href="http://example.com/2023/10/13/dev/lambda/ts/"/>
+    <id>http://example.com/2023/10/13/dev/lambda/ts/</id>
+    <published>2023-10-13T01:33:41.410Z</published>
+    <updated>2023-10-13T01:33:41.410Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;要在AWS</summary>
+        
+      
+    
+    
+    
+    <category term="lambda" scheme="http://example.com/categories/lambda/"/>
+    
+    
+    <category term="Typescript" scheme="http://example.com/tags/Typescript/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>S3 桶策略仅自己可见</title>
+    <link href="http://example.com/2023/10/13/storage/s3/s3-tong-ce-lue-jin-zi-ji-ke-jian/"/>
+    <id>http://example.com/2023/10/13/storage/s3/s3-tong-ce-lue-jin-zi-ji-ke-jian/</id>
+    <published>2023-10-13T01:33:41.410Z</published>
+    <updated>2023-10-13T01:33:41.410Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;S3 桶策略仅自己可见,用allow放行自己，然后deny其他人，等于双重保险。&lt;/p&gt;
+&lt;p&gt;分析过程：&lt;/p&gt;
+&lt;pre class=&quot;line-numbers language-json&quot;&gt;&lt;code</summary>
+        
+      
+    
+    
+    
+    <category term="s3" scheme="http://example.com/categories/s3/"/>
+    
+    
+    <category term="bucket policy" scheme="http://example.com/tags/bucket-policy/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>S3 权限访问</title>
+    <link href="http://example.com/2023/10/13/storage/s3/s3-quan-xian-fang-wen/"/>
+    <id>http://example.com/2023/10/13/storage/s3/s3-quan-xian-fang-wen/</id>
+    <published>2023-10-13T01:33:41.410Z</published>
+    <updated>2023-10-13T01:33:41.410Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h3 id=&quot;本账号访问&quot;&gt;&lt;a href=&quot;#本账号访问&quot; class=&quot;headerlink&quot; title=&quot;本账号访问&quot;&gt;&lt;/a&gt;本账号访问&lt;/h3&gt;&lt;h3 id=&quot;跨账户访问&quot;&gt;&lt;a href=&quot;#跨账户访问&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="s3" scheme="http://example.com/categories/s3/"/>
+    
+    
+    <category term="bucket policy" scheme="http://example.com/tags/bucket-policy/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>S3 静态网站搭建</title>
+    <link href="http://example.com/2023/10/13/storage/s3/s3-jing-tai-wang-zhan-da-jian/"/>
+    <id>http://example.com/2023/10/13/storage/s3/s3-jing-tai-wang-zhan-da-jian/</id>
+    <published>2023-10-13T01:33:41.410Z</published>
+    <updated>2023-10-13T01:33:41.410Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;S3 可以托管静态网站，格式是&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="s3" scheme="http://example.com/categories/s3/"/>
+    
+    
+    <category term="bucket policy" scheme="http://example.com/tags/bucket-policy/"/>
+    
+  </entry>
+  
+</feed>
