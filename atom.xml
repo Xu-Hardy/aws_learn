@@ -3,11 +3,11 @@
   <title>AWS 加油站</title>
   
   <subtitle>记录宇宙第一云厂商学习的心路</subtitle>
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="https://xu-hardy.github.io/aws_learn/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
-  <updated>2023-10-13T01:33:41.410Z</updated>
-  <id>http://example.com/</id>
+  <link href="https://xu-hardy.github.io/aws_learn/"/>
+  <updated>2023-10-13T01:41:10.401Z</updated>
+  <id>https://xu-hardy.github.io/aws_learn/</id>
   
   <author>
     <name>aws learner</name>
@@ -18,10 +18,10 @@
   
   <entry>
     <title>AWS 文档海外区和中国区切换</title>
-    <link href="http://example.com/2023/10/13/basic/aws-link/"/>
-    <id>http://example.com/2023/10/13/basic/aws-link/</id>
-    <published>2023-10-13T01:33:41.410Z</published>
-    <updated>2023-10-13T01:33:41.410Z</updated>
+    <link href="https://xu-hardy.github.io/aws_learn/2023/10/13/basic/aws-link/"/>
+    <id>https://xu-hardy.github.io/aws_learn/2023/10/13/basic/aws-link/</id>
+    <published>2023-10-13T01:41:10.401Z</published>
+    <updated>2023-10-13T01:41:10.401Z</updated>
     
     
       
@@ -34,19 +34,19 @@
     
     
     
-    <category term="doc" scheme="http://example.com/categories/doc/"/>
+    <category term="doc" scheme="https://xu-hardy.github.io/aws_learn/categories/doc/"/>
     
     
-    <category term="Javascript" scheme="http://example.com/tags/Javascript/"/>
+    <category term="Javascript" scheme="https://xu-hardy.github.io/aws_learn/tags/Javascript/"/>
     
   </entry>
   
   <entry>
     <title>域名那些事</title>
-    <link href="http://example.com/2023/10/13/basic/yu-ming/"/>
-    <id>http://example.com/2023/10/13/basic/yu-ming/</id>
-    <published>2023-10-13T01:33:41.410Z</published>
-    <updated>2023-10-13T01:33:41.410Z</updated>
+    <link href="https://xu-hardy.github.io/aws_learn/2023/10/13/basic/yu-ming/"/>
+    <id>https://xu-hardy.github.io/aws_learn/2023/10/13/basic/yu-ming/</id>
+    <published>2023-10-13T01:41:10.401Z</published>
+    <updated>2023-10-13T01:41:10.401Z</updated>
     
     
       
@@ -59,19 +59,19 @@
     
     
     
-    <category term="route53" scheme="http://example.com/categories/route53/"/>
+    <category term="route53" scheme="https://xu-hardy.github.io/aws_learn/categories/route53/"/>
     
     
-    <category term="域名" scheme="http://example.com/tags/%E5%9F%9F%E5%90%8D/"/>
+    <category term="域名" scheme="https://xu-hardy.github.io/aws_learn/tags/%E5%9F%9F%E5%90%8D/"/>
     
   </entry>
   
   <entry>
     <title>codecommit 单个文件的限制</title>
-    <link href="http://example.com/2023/10/13/code-family/codecommit-xian-zhi/"/>
-    <id>http://example.com/2023/10/13/code-family/codecommit-xian-zhi/</id>
-    <published>2023-10-13T01:33:41.410Z</published>
-    <updated>2023-10-13T01:33:41.410Z</updated>
+    <link href="https://xu-hardy.github.io/aws_learn/2023/10/13/code-family/codecommit-xian-zhi/"/>
+    <id>https://xu-hardy.github.io/aws_learn/2023/10/13/code-family/codecommit-xian-zhi/</id>
+    <published>2023-10-13T01:41:10.401Z</published>
+    <updated>2023-10-13T01:41:10.401Z</updated>
     
     
       
@@ -84,19 +84,19 @@
     
     
     
-    <category term="codecommit" scheme="http://example.com/categories/codecommit/"/>
+    <category term="codecommit" scheme="https://xu-hardy.github.io/aws_learn/categories/codecommit/"/>
     
     
-    <category term="git" scheme="http://example.com/tags/git/"/>
+    <category term="git" scheme="https://xu-hardy.github.io/aws_learn/tags/git/"/>
     
   </entry>
   
   <entry>
     <title>IAM 限制</title>
-    <link href="http://example.com/2023/10/13/authority/iam/iam-xian-zhi/"/>
-    <id>http://example.com/2023/10/13/authority/iam/iam-xian-zhi/</id>
-    <published>2023-10-13T01:33:41.410Z</published>
-    <updated>2023-10-13T01:33:41.410Z</updated>
+    <link href="https://xu-hardy.github.io/aws_learn/2023/10/13/authority/iam/iam-xian-zhi/"/>
+    <id>https://xu-hardy.github.io/aws_learn/2023/10/13/authority/iam/iam-xian-zhi/</id>
+    <published>2023-10-13T01:41:10.401Z</published>
+    <updated>2023-10-13T01:41:10.401Z</updated>
     
     
       
@@ -109,19 +109,19 @@
     
     
     
-    <category term="iam" scheme="http://example.com/categories/iam/"/>
+    <category term="iam" scheme="https://xu-hardy.github.io/aws_learn/categories/iam/"/>
     
     
-    <category term="iam policy" scheme="http://example.com/tags/iam-policy/"/>
+    <category term="iam policy" scheme="https://xu-hardy.github.io/aws_learn/tags/iam-policy/"/>
     
   </entry>
   
   <entry>
     <title>IAM 常用命令</title>
-    <link href="http://example.com/2023/10/13/authority/iam/iam-chang-yong-ming-ling/"/>
-    <id>http://example.com/2023/10/13/authority/iam/iam-chang-yong-ming-ling/</id>
-    <published>2023-10-13T01:33:41.410Z</published>
-    <updated>2023-10-13T01:33:41.410Z</updated>
+    <link href="https://xu-hardy.github.io/aws_learn/2023/10/13/authority/iam/iam-chang-yong-ming-ling/"/>
+    <id>https://xu-hardy.github.io/aws_learn/2023/10/13/authority/iam/iam-chang-yong-ming-ling/</id>
+    <published>2023-10-13T01:41:10.401Z</published>
+    <updated>2023-10-13T01:41:10.401Z</updated>
     
     
       
@@ -135,19 +135,19 @@
     
     
     
-    <category term="iam" scheme="http://example.com/categories/iam/"/>
+    <category term="iam" scheme="https://xu-hardy.github.io/aws_learn/categories/iam/"/>
     
     
-    <category term="iam policy" scheme="http://example.com/tags/iam-policy/"/>
+    <category term="iam policy" scheme="https://xu-hardy.github.io/aws_learn/tags/iam-policy/"/>
     
   </entry>
   
   <entry>
     <title>mfa 失效</title>
-    <link href="http://example.com/2023/10/13/authority/iam/mfa/"/>
-    <id>http://example.com/2023/10/13/authority/iam/mfa/</id>
-    <published>2023-10-13T01:33:41.410Z</published>
-    <updated>2023-10-13T01:33:41.410Z</updated>
+    <link href="https://xu-hardy.github.io/aws_learn/2023/10/13/authority/iam/mfa/"/>
+    <id>https://xu-hardy.github.io/aws_learn/2023/10/13/authority/iam/mfa/</id>
+    <published>2023-10-13T01:41:10.401Z</published>
+    <updated>2023-10-13T01:41:10.401Z</updated>
     
     
       
@@ -161,19 +161,19 @@
     
     
     
-    <category term="iam" scheme="http://example.com/categories/iam/"/>
+    <category term="iam" scheme="https://xu-hardy.github.io/aws_learn/categories/iam/"/>
     
     
-    <category term="mfa" scheme="http://example.com/tags/mfa/"/>
+    <category term="mfa" scheme="https://xu-hardy.github.io/aws_learn/tags/mfa/"/>
     
   </entry>
   
   <entry>
     <title>Flask部署机器学习模型</title>
-    <link href="http://example.com/2023/10/13/dev/basic/flask/"/>
-    <id>http://example.com/2023/10/13/dev/basic/flask/</id>
-    <published>2023-10-13T01:33:41.410Z</published>
-    <updated>2023-10-13T01:33:41.410Z</updated>
+    <link href="https://xu-hardy.github.io/aws_learn/2023/10/13/dev/basic/flask/"/>
+    <id>https://xu-hardy.github.io/aws_learn/2023/10/13/dev/basic/flask/</id>
+    <published>2023-10-13T01:41:10.401Z</published>
+    <updated>2023-10-13T01:41:10.401Z</updated>
     
     
       
@@ -187,23 +187,23 @@
     
     
     
-    <category term="dev" scheme="http://example.com/categories/dev/"/>
+    <category term="dev" scheme="https://xu-hardy.github.io/aws_learn/categories/dev/"/>
     
     
-    <category term="Flask" scheme="http://example.com/tags/Flask/"/>
+    <category term="Flask" scheme="https://xu-hardy.github.io/aws_learn/tags/Flask/"/>
     
-    <category term="Machine learning" scheme="http://example.com/tags/Machine-learning/"/>
+    <category term="Machine learning" scheme="https://xu-hardy.github.io/aws_learn/tags/Machine-learning/"/>
     
-    <category term="Python" scheme="http://example.com/tags/Python/"/>
+    <category term="Python" scheme="https://xu-hardy.github.io/aws_learn/tags/Python/"/>
     
   </entry>
   
   <entry>
     <title>nginx返回客户端IP</title>
-    <link href="http://example.com/2023/10/13/dev/basic/nginx/"/>
-    <id>http://example.com/2023/10/13/dev/basic/nginx/</id>
-    <published>2023-10-13T01:33:41.410Z</published>
-    <updated>2023-10-13T01:33:41.410Z</updated>
+    <link href="https://xu-hardy.github.io/aws_learn/2023/10/13/dev/basic/nginx/"/>
+    <id>https://xu-hardy.github.io/aws_learn/2023/10/13/dev/basic/nginx/</id>
+    <published>2023-10-13T01:41:10.401Z</published>
+    <updated>2023-10-13T01:41:10.401Z</updated>
     
     
       
@@ -220,21 +220,21 @@
     
     
     
-    <category term="dev" scheme="http://example.com/categories/dev/"/>
+    <category term="dev" scheme="https://xu-hardy.github.io/aws_learn/categories/dev/"/>
     
     
-    <category term="Nginx" scheme="http://example.com/tags/Nginx/"/>
+    <category term="Nginx" scheme="https://xu-hardy.github.io/aws_learn/tags/Nginx/"/>
     
-    <category term="Public IP" scheme="http://example.com/tags/Public-IP/"/>
+    <category term="Public IP" scheme="https://xu-hardy.github.io/aws_learn/tags/Public-IP/"/>
     
   </entry>
   
   <entry>
     <title>boto3给HTTP签名</title>
-    <link href="http://example.com/2023/10/13/dev/basic/signv4/"/>
-    <id>http://example.com/2023/10/13/dev/basic/signv4/</id>
-    <published>2023-10-13T01:33:41.410Z</published>
-    <updated>2023-10-13T01:33:41.410Z</updated>
+    <link href="https://xu-hardy.github.io/aws_learn/2023/10/13/dev/basic/signv4/"/>
+    <id>https://xu-hardy.github.io/aws_learn/2023/10/13/dev/basic/signv4/</id>
+    <published>2023-10-13T01:41:10.401Z</published>
+    <updated>2023-10-13T01:41:10.401Z</updated>
     
     
       
@@ -247,25 +247,25 @@
     
     
     
-    <category term="aws sdk" scheme="http://example.com/categories/aws-sdk/"/>
+    <category term="aws sdk" scheme="https://xu-hardy.github.io/aws_learn/categories/aws-sdk/"/>
     
-    <category term="dev" scheme="http://example.com/categories/aws-sdk/dev/"/>
+    <category term="dev" scheme="https://xu-hardy.github.io/aws_learn/categories/aws-sdk/dev/"/>
     
     
-    <category term="Python" scheme="http://example.com/tags/Python/"/>
+    <category term="Python" scheme="https://xu-hardy.github.io/aws_learn/tags/Python/"/>
     
-    <category term="boto3" scheme="http://example.com/tags/boto3/"/>
+    <category term="boto3" scheme="https://xu-hardy.github.io/aws_learn/tags/boto3/"/>
     
-    <category term="http" scheme="http://example.com/tags/http/"/>
+    <category term="http" scheme="https://xu-hardy.github.io/aws_learn/tags/http/"/>
     
   </entry>
   
   <entry>
     <title>本地使用SAM模拟Lambda</title>
-    <link href="http://example.com/2023/10/13/dev/lambda/sam/"/>
-    <id>http://example.com/2023/10/13/dev/lambda/sam/</id>
-    <published>2023-10-13T01:33:41.410Z</published>
-    <updated>2023-10-13T01:33:41.410Z</updated>
+    <link href="https://xu-hardy.github.io/aws_learn/2023/10/13/dev/lambda/sam/"/>
+    <id>https://xu-hardy.github.io/aws_learn/2023/10/13/dev/lambda/sam/</id>
+    <published>2023-10-13T01:41:10.401Z</published>
+    <updated>2023-10-13T01:41:10.401Z</updated>
     
     
       
@@ -280,21 +280,21 @@
     
     
     
-    <category term="lambda" scheme="http://example.com/categories/lambda/"/>
+    <category term="lambda" scheme="https://xu-hardy.github.io/aws_learn/categories/lambda/"/>
     
     
-    <category term="Severless" scheme="http://example.com/tags/Severless/"/>
+    <category term="Severless" scheme="https://xu-hardy.github.io/aws_learn/tags/Severless/"/>
     
-    <category term="SAM" scheme="http://example.com/tags/SAM/"/>
+    <category term="SAM" scheme="https://xu-hardy.github.io/aws_learn/tags/SAM/"/>
     
   </entry>
   
   <entry>
     <title>在lambda上运行 Typescript</title>
-    <link href="http://example.com/2023/10/13/dev/lambda/ts/"/>
-    <id>http://example.com/2023/10/13/dev/lambda/ts/</id>
-    <published>2023-10-13T01:33:41.410Z</published>
-    <updated>2023-10-13T01:33:41.410Z</updated>
+    <link href="https://xu-hardy.github.io/aws_learn/2023/10/13/dev/lambda/ts/"/>
+    <id>https://xu-hardy.github.io/aws_learn/2023/10/13/dev/lambda/ts/</id>
+    <published>2023-10-13T01:41:10.401Z</published>
+    <updated>2023-10-13T01:41:10.401Z</updated>
     
     
       
@@ -307,19 +307,19 @@
     
     
     
-    <category term="lambda" scheme="http://example.com/categories/lambda/"/>
+    <category term="lambda" scheme="https://xu-hardy.github.io/aws_learn/categories/lambda/"/>
     
     
-    <category term="Typescript" scheme="http://example.com/tags/Typescript/"/>
+    <category term="Typescript" scheme="https://xu-hardy.github.io/aws_learn/tags/Typescript/"/>
     
   </entry>
   
   <entry>
     <title>S3 桶策略仅自己可见</title>
-    <link href="http://example.com/2023/10/13/storage/s3/s3-tong-ce-lue-jin-zi-ji-ke-jian/"/>
-    <id>http://example.com/2023/10/13/storage/s3/s3-tong-ce-lue-jin-zi-ji-ke-jian/</id>
-    <published>2023-10-13T01:33:41.410Z</published>
-    <updated>2023-10-13T01:33:41.410Z</updated>
+    <link href="https://xu-hardy.github.io/aws_learn/2023/10/13/storage/s3/s3-tong-ce-lue-jin-zi-ji-ke-jian/"/>
+    <id>https://xu-hardy.github.io/aws_learn/2023/10/13/storage/s3/s3-tong-ce-lue-jin-zi-ji-ke-jian/</id>
+    <published>2023-10-13T01:41:10.401Z</published>
+    <updated>2023-10-13T01:41:10.401Z</updated>
     
     
       
@@ -334,19 +334,19 @@
     
     
     
-    <category term="s3" scheme="http://example.com/categories/s3/"/>
+    <category term="s3" scheme="https://xu-hardy.github.io/aws_learn/categories/s3/"/>
     
     
-    <category term="bucket policy" scheme="http://example.com/tags/bucket-policy/"/>
+    <category term="bucket policy" scheme="https://xu-hardy.github.io/aws_learn/tags/bucket-policy/"/>
     
   </entry>
   
   <entry>
     <title>S3 权限访问</title>
-    <link href="http://example.com/2023/10/13/storage/s3/s3-quan-xian-fang-wen/"/>
-    <id>http://example.com/2023/10/13/storage/s3/s3-quan-xian-fang-wen/</id>
-    <published>2023-10-13T01:33:41.410Z</published>
-    <updated>2023-10-13T01:33:41.410Z</updated>
+    <link href="https://xu-hardy.github.io/aws_learn/2023/10/13/storage/s3/s3-quan-xian-fang-wen/"/>
+    <id>https://xu-hardy.github.io/aws_learn/2023/10/13/storage/s3/s3-quan-xian-fang-wen/</id>
+    <published>2023-10-13T01:41:10.401Z</published>
+    <updated>2023-10-13T01:41:10.401Z</updated>
     
     
       
@@ -359,19 +359,19 @@
     
     
     
-    <category term="s3" scheme="http://example.com/categories/s3/"/>
+    <category term="s3" scheme="https://xu-hardy.github.io/aws_learn/categories/s3/"/>
     
     
-    <category term="bucket policy" scheme="http://example.com/tags/bucket-policy/"/>
+    <category term="bucket policy" scheme="https://xu-hardy.github.io/aws_learn/tags/bucket-policy/"/>
     
   </entry>
   
   <entry>
     <title>S3 静态网站搭建</title>
-    <link href="http://example.com/2023/10/13/storage/s3/s3-jing-tai-wang-zhan-da-jian/"/>
-    <id>http://example.com/2023/10/13/storage/s3/s3-jing-tai-wang-zhan-da-jian/</id>
-    <published>2023-10-13T01:33:41.410Z</published>
-    <updated>2023-10-13T01:33:41.410Z</updated>
+    <link href="https://xu-hardy.github.io/aws_learn/2023/10/13/storage/s3/s3-jing-tai-wang-zhan-da-jian/"/>
+    <id>https://xu-hardy.github.io/aws_learn/2023/10/13/storage/s3/s3-jing-tai-wang-zhan-da-jian/</id>
+    <published>2023-10-13T01:41:10.401Z</published>
+    <updated>2023-10-13T01:41:10.401Z</updated>
     
     
       
@@ -384,10 +384,10 @@
     
     
     
-    <category term="s3" scheme="http://example.com/categories/s3/"/>
+    <category term="s3" scheme="https://xu-hardy.github.io/aws_learn/categories/s3/"/>
     
     
-    <category term="bucket policy" scheme="http://example.com/tags/bucket-policy/"/>
+    <category term="bucket policy" scheme="https://xu-hardy.github.io/aws_learn/tags/bucket-policy/"/>
     
   </entry>
   
